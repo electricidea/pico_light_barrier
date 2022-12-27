@@ -11,7 +11,6 @@
 # 
 # Check the complete project at Hackster.io:
 # https://www.hackster.io/hague/over-engineered-dual-core-light-barrier-c523a9
-# Debug version with print outputs and CSV export
 # 
 # Distributed as-is; no warranty is given.
 ####################################################
